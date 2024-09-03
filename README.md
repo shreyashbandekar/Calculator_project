@@ -20,7 +20,7 @@ To use this calculator locally:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/shreyashbandekar/Spotify_Clone.git
+    https://github.com/shreyashbandekar/Calculator_project.git
     ```
    
 2. **Navigate to the project directory**:
